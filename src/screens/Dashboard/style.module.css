@@ -1,0 +1,8 @@
+.app {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(60, 165, 214);
+}
+.navbar {
+  box-shadow: slategray 2px 2px;
+}
