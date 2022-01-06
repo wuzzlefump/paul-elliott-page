@@ -25,43 +25,51 @@ export default function Dashboard() {
             <FaCat size={"50px"}></FaCat>
           </div>
         </Panel>
-        <Panel header={"The Regional Manager"}>
+        <Panel>
           <div style={{ display: "grid", gridTemplateColumns: "200px auto" }}>
-            <Avatar size="150px" round={true} src={Paul} name="Paul" />
-            <PlaceholderParagraph />
+            <div style={{ display: "block", textAlign: "center" }}>
+              <h6 style={{ marginBlockEnd: "10px" }}>Regional Manager</h6>
+              <Avatar size="150px" round={true} src={Paul} name="Paul" />
+            </div>
+            <PlaceholderParagraph rows={5} />
           </div>
         </Panel>
-        <Panel header={"Assistant to the Regional Manager"}>
+        <Panel>
           <div style={{ display: "grid", gridTemplateColumns: "auto 200px" }}>
-            <PlaceholderParagraph />
-            <Avatar size="150px" round={true} name="Amanda" />
+            <PlaceholderParagraph rows={5} />
+            <div style={{ display: "block", textAlign: "center" }}>
+              <Avatar size="150px" round={true} name="Amanda" />
+              <h6 style={{ marginBlockStart: "10px" }}>
+                Assistant Regional Manager
+              </h6>
+            </div>
           </div>
         </Panel>
         <Panel>
           <div style={{ display: "grid", gridTemplateColumns: "200px auto" }}>
             <div style={{ display: "block", textAlign: "center" }}>
-              <h6>Salesman</h6>
+              <h6 style={{ marginBlockEnd: "10px" }}>Salesman</h6>
               <Avatar size="150px" src={Panda} round name="Panda" />
             </div>
-            <PlaceholderParagraph />
+            <PlaceholderParagraph rows={5} />
           </div>
         </Panel>
         <Panel>
           <div style={{ display: "grid", gridTemplateColumns: "auto 200px" }}>
-            <PlaceholderParagraph />
+            <PlaceholderParagraph rows={5} />
             <div style={{ display: "block", textAlign: "center" }}>
-              <h6>Salesman</h6>
               <Avatar size="150px" src={Keeley} round name="Keeley" />
+              <h6 style={{ marginBlockStart: "10px" }}>Salesman</h6>
             </div>
           </div>
         </Panel>
         <Panel>
           <div style={{ display: "grid", gridTemplateColumns: "200px auto" }}>
             <div style={{ display: "block", textAlign: "center" }}>
-              <h6>Accountant</h6>
+              <h6 style={{ marginBlockEnd: "10px" }}>Accountant</h6>
               <Avatar size="150px" src={Inca} round name="Inca" />
             </div>
-            <PlaceholderParagraph />
+            <PlaceholderParagraph rows={5} />
           </div>
         </Panel>
         <Panel></Panel>

@@ -23,7 +23,13 @@ export default function TopBar() {
           Home
         </Nav.Item>
         <Nav.Item>Memes</Nav.Item>
-        <Nav.Item>Portfolio</Nav.Item>
+        <Nav.Item
+          onClick={() => {
+            navigate("/portfolio");
+          }}
+        >
+          Portfolio
+        </Nav.Item>
         {/* <Nav.Item> Blog </Nav.Item> */}
       </Nav>
     </Navbar>

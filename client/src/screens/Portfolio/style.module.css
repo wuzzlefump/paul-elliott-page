@@ -1,0 +1,31 @@
+.app {
+  height: 100vh;
+  background-color: rgb(60, 165, 214);
+}
+.folder {
+  margin-block-start: 20px;
+}
+
+.tab {
+  background-color: rgb(231, 203, 149);
+  margin-inline-end: 5px;
+  color: black;
+}
+
+.tab :hover {
+  background-color: white;
+}
+.folderBody {
+  background-color: rgb(231, 203, 149);
+  height: 100%;
+  padding-block-start: 20px;
+  padding-block-end: 5px;
+}
+
+.content {
+  background-color: whitesmoke;
+  height: 100%;
+  margin-inline-end: 20px;
+  margin-inline-start: 20px;
+  box-shadow: black 2px 2px 2px;
+}
