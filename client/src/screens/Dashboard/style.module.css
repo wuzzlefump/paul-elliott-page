@@ -1,8 +1,29 @@
 .app {
-  height: 100vh;
+  height: 150vh;
   width: 100%;
   background-color: rgb(60, 165, 214);
 }
-.navbar {
-  box-shadow: slategray 2px 2px;
+
+.panelContainer {
+  display: grid;
+  grid-template-columns: auto;
+  margin-block-start: 20px;
+}
+.team {
+  text-align: center;
+  color: white;
+}
+
+.about {
+  color: white;
+  margin-block-start: 20px;
+  border-radius: 0;
+}
+.panelOne {
+  background-color: white;
+  border-radius: 0;
+}
+.panelTwo {
+  background-color: #c4c4c4;
+  border-radius: 0;
 }

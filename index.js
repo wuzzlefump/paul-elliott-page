@@ -9,7 +9,7 @@ const _ = require("lodash");
 const mongoose = require("mongoose");
 var sha256 = require("js-sha256");
 //----------------------- import mongoose models--------------------
-const db = require("./models");
+// const db = require("./models");
 
 //-------server config-----------------------------------------------
 const PORT = 8080;
