@@ -1,7 +1,42 @@
 [
     {
-        "skill":"skill",
+        "skill":"Javascript",
         "type":"developing",
-        "description":"Cool"
+        "description":"Understands The fundamentals of using Javascript and Typescript"
+    },
+    {
+        "skill":"HTML",
+        "type":"developing",
+        "description":"Understands the fundamentals of using HTML"
+    },
+    {
+        "skill":"CSS",
+        "type":"developing",
+        "description":"Understands The fundamentals of using CSS"
+    },
+    {
+        "skill":"React",
+        "type":"developing",
+        "description":"Understands how to use React as a front end framework"
+    },
+    {
+        "skill":"Full Stack Developement",
+        "type":"developing",
+        "description":"Understands how to develop with a front end, a back end, and a database"
+    },
+    {
+        "skill":"Terraform",
+        "type":"developing",
+        "description":"Has some experience using Terraform with AWS for Deployment"
+    },
+    {
+        "skill":"AWS",
+        "type":"developing",
+        "description":"Has some experience allocating resources with AWS"
+    },
+    {
+        "skill":"Gitlab CI",
+        "type":"developing",
+        "description":"Has some experience using pipelines on gitlab"
     }
 ]

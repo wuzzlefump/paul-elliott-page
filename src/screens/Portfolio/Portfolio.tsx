@@ -84,7 +84,7 @@ export default function Portfolio() {
             {
               Lists["skills"]
               .filter((item:any)=>item.type === active)
-              .map((item:any) => <Skill></Skill>)
+              .map((item:any) => <Skill skill={item.skill} description={item.description} />)
             }
 
           </div>
@@ -94,8 +94,8 @@ export default function Portfolio() {
   );
 }
 
-const Skill = ()=>{
-  return <> </>
+const Skill = (props:{skill:string, description:string})=>{
+  return <div className={styles.skill}><span className={styles.skillHeader}>{props.skill} :</span><span className={styles.skillText} >{props.description}</span></div>
 }
 
 const Education = (props:{ school:string, degree:string,  start?:string, end?:string })=>{

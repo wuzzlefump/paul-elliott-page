@@ -32,6 +32,7 @@
   margin-block-end: 30px;
   padding-inline-start: 20px;
   padding-inline-end: 20px;
+  overflow: scroll;
 }
 .contactInfo{
   text-align: center;
@@ -41,6 +42,7 @@
 
 .subHeader{
   margin-block-start: 30px;
+  margin-block-end:10px ;
   padding-block-end: 30px;
   border-bottom: lightgray solid 1px;
   text-align: center ;
@@ -66,3 +68,17 @@
 }
 
 /* skills */
+.skill{
+display: grid;
+grid-template-columns: 200px auto;
+gap:50px;
+margin-block-end: 5px
+}
+
+.skillHeader{
+font-weight: bolder;
+}
+
+.skillText{
+
+}
