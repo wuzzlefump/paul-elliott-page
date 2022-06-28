@@ -1,0 +1,68 @@
+.app {
+  height: 100vh;
+  background-color: rgb(60, 165, 214);
+}
+.folder {
+  margin-block-start: 20px;
+}
+
+.tab {
+  background-color: rgb(231, 203, 149);
+  margin-inline-end: 5px;
+  color: black;
+}
+
+.tab :hover {
+  background-color: white;
+}
+.folderBody {
+  background-color: rgb(231, 203, 149);
+  height: 100%;
+  padding-block-start: 20px;
+  padding-block-end: 5px;
+}
+
+.content {
+  background-color: white;
+  height: 100%;
+  border-radius: 10px;
+  margin-inline-end: 20px;
+  margin-inline-start: 20px;
+  box-shadow: black 5px 5px 5px;
+  margin-block-end: 30px;
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+}
+.contactInfo{
+  text-align: center;
+  border-bottom: lightgray solid 1px;
+  padding-block-end: 20px;
+}
+
+.subHeader{
+  margin-block-start: 30px;
+  padding-block-end: 30px;
+  border-bottom: lightgray solid 1px;
+  text-align: center ;
+}
+/* jobs */
+.job{
+  width: auto;
+  display: grid;
+  grid-template-columns: 100px auto 100px;
+  gap:40px;
+  margin-block-end: 40px;
+  padding-block-start: 20px ;
+}
+.jobDescription{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color:black;
+  padding-inline-start: 20px ;
+  padding-inline-end: 20px ;
+
+  border-left: lightgray 1px solid;
+  border-right: lightgray 1px solid;
+}
+
+/* skills */

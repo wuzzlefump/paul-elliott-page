@@ -1,0 +1,58 @@
+[
+    {
+        "school":"Colorado State University",
+        "degree":"Bachelors Degree in health and exercise science along with a minor in business",
+        "type":"fitness",
+        "start":"August 2013",
+        "end":"May 2017"
+    },
+    {
+        "school":"Colorado State University",
+        "degree":"Bachelors Degree in health and exercise science along with a minor in business",
+        "type":"dance",
+        "start":"August 2013",
+        "end":"May 2017"
+    },
+    {
+        "school":"Colorado State University",
+        "degree":"Bachelors Degree in health and exercise science along with a minor in business",
+        "type":"sales",
+        "start":"August 2013",
+        "end":"May 2017"
+    },
+    {
+        "school":"Colorado State University",
+        "degree":"Bachelors Degree in health and exercise science along with a minor in business",
+        "type":"developing",
+        "start":"August 2013",
+        "end":"May 2017"
+    },
+    {
+        "school":"University of Denver",
+        "degree":"Certificate in Full Stack Web Developement",
+        "type":"developing",
+        "start":"June 2020",
+        "end":"Dec 2020"
+    },
+    {
+        "school":"FADS",
+        "degree":"Social Foundations Teaching Certification",
+        "type":"dance",
+        "start":null,
+        "end":"2018"
+    },
+    {
+        "school":"FADS",
+        "degree":"Beginner and Intermediate Bronze Teaching Certification",
+        "type":"dance",
+        "start":null,
+        "end":" 2019"
+    },
+    {
+        "school":"FADS",
+        "degree":"Senior and Final Bronze Teaching Certification",
+        "type":"dance",
+        "start":null,
+        "end":"2020"
+    }
+]

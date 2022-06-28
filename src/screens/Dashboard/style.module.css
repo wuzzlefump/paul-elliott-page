@@ -2,6 +2,7 @@
   height: 100%;
   width: 100%;
   background-color: rgb(60, 165, 214);
+  padding-block-end: 30px;
 }
 
 .panelContainer {
@@ -26,4 +27,14 @@
 .panelTwo {
   background-color: #c4c4c4;
   border-radius: 0;
+}
+
+.contentContainer{
+  background-color: white;
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
+  padding-block-end: 30px;
+  color: black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
 }
