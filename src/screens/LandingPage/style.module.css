@@ -19,7 +19,7 @@
   border: white solid 5px;
   border-radius: 10px;
   display: grid;
-  grid-template-columns: 60% 35%;
+  grid-template-columns: 30% 70%;
   gap: 5%;
   padding-inline-start: 15px;
   padding-block-end: 20px;
@@ -55,7 +55,7 @@
 }
 .box {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   padding: 45px 5px 90px 10px;
   border: white 2px solid;
   border-radius: 10px;
@@ -76,7 +76,7 @@
     border: white solid 5px;
     border-radius: 10px;
     display: grid;
-    grid-template-columns: 60% 35%;
+    grid-template-columns: 55% 45%;
     gap: 5%;
     padding-inline-start: 15px;
     padding-block-end: 20px;
@@ -112,7 +112,7 @@
   }
   .box {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     padding: 125px 30px 45px 30px;
     border: white 2px solid;
     border-radius: 10px;
@@ -171,7 +171,7 @@
   }
   .box {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     padding: 45px 10px 125px 10px;
     border: white 2px solid;
     border-radius: 10px;
@@ -193,7 +193,7 @@
     border: white solid 5px;
     border-radius: 10px;
     display: grid;
-    grid-template-columns: 60% 35%;
+    grid-template-columns: 40% 60%;
     gap: 5%;
     padding-inline-start: 15px;
     padding-block-end: 20px;
@@ -229,7 +229,7 @@
   }
   .box {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto ; 
     padding: 45px 10px 125px 10px;
     border: white 2px solid;
     border-radius: 10px;
@@ -250,7 +250,7 @@
     border: white solid 5px;
     border-radius: 10px;
     display: grid;
-    grid-template-columns: 60% 35%;
+    grid-template-columns: 30% 70%;
     gap: 5%;
     padding-inline-start: 15px;
     padding-block-end: 20px;
@@ -286,7 +286,7 @@
   }
   .box {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     padding: 45px 10px 90px 10px;
     border: white 2px solid;
     border-radius: 10px;

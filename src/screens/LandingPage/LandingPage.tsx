@@ -1,6 +1,6 @@
 import * as React from "react";
 import styles from "./style.module.css";
-import { IoMan } from "react-icons/io5";
+import { IoMan, IoWoman } from "react-icons/io5";
 import { FaCat, FaDog, FaBaby } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import { useMediaQuery, useMediaQueries } from "@react-hook/media-query";
@@ -30,6 +30,10 @@ export default function LandingPage() {
               size={matches.width ? "30px" : "50px"}
             />
             <IoMan
+              className={styles.iconPaul}
+              size={matches.width ? "60px" : "100px"}
+            />
+                      <IoWoman
               className={styles.iconPaul}
               size={matches.width ? "60px" : "100px"}
             />

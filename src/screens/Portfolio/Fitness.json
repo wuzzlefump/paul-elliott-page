@@ -5,14 +5,23 @@
         "start":"Dec 2017",
         "end":"Dec 2018",
         "url":"https://www.lightenuplifestyle.com/",
-        "description":"While Paul was a group fitness trainer, he led clients working to lose weight through their Saturday workouts"
+        "description":"While Paul was a 'Group Fitness Trainer', he led clients working to lose weight through their Saturday workouts"
     },
     {
         "name":"CSU Triathlon Team",
         "title":"Strength and Conditioning Coach",
-        "start":"Dec 2017",
-        "end":"Dec 2018",
+        "start":"Fall 2014",
+        "end":"spring 2017",
         "url":"https://www.csutriathlon.com/",
         "description":"While Paul was in Charge of strength and conditioning, Paul planned and  led workouts for the team at their early morning practices 2-3 times a week"
+    },
+    {
+        "name":"CSU Noon Hour Fitness",
+        "title":"Student Trainer",
+        "start":"Dec 2017",
+        "end":"Dec 2018",
+        "url":"https://www.chhs.colostate.edu/hes/outreach-and-engagement/noon-hour-faculty-and-staff-fitness-program/#:~:text=Noon%20Hour%20Fitness%20Programs%20and%20Activities&text=Monday%E2%80%93Friday%3A%2011%3A30%20a.m.%E2%80%931%3A30%20p.m.",
+        "description":"While Paul was in A 'Student Trainer' he helped train faculty and staff during their lunch hour"
     }
+
 ]

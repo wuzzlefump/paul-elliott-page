@@ -4,7 +4,7 @@ import TopBar from "../../components/TopBar";
 import { Panel, PanelGroup } from "rsuite";
 import PlaceholderParagraph from "rsuite/esm/Placeholder/PlaceholderParagraph";
 import Avatar from "react-avatar";
-import { IoMan } from "react-icons/io5";
+import { IoMan, IoWoman } from "react-icons/io5";
 import { FaCat, FaDog, FaBaby } from "react-icons/fa";
 import Keeley from "./Keeley.jpg";
 import Inca from "./Inca.jpg";
@@ -21,6 +21,7 @@ export default function Dashboard() {
             <FaDog size={"50px"}></FaDog>
             <FaCat size={"50px"}></FaCat>
             <IoMan size={"100px"}></IoMan>
+            <IoWoman size={"100px"}></IoWoman>
             <FaBaby size={"50px"}></FaBaby>
           </div>
         </Panel>

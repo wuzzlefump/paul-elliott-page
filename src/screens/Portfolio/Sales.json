@@ -1,4 +1,12 @@
-[
+[    
+    {
+        "name":"Rusty Bucket",
+        "title":"Waiter",
+        "start":"June 2016",
+        "end":"August 2016",
+        "url":"http://the-rusty-bucket.com/",
+        "description":"During The Summer of 2016, Paul worked as a waiter for a newly opening restaurant in the area. The new restaurant, ' The Rusty Bucket' gave Paul a lot of customer service experience before returning to school."
+    },
     {
         "name":"Waypoint Consulting",
         "title":"Intern / Account Manager",
@@ -7,4 +15,5 @@
         "url":"",
         "description":" Worked as a paper salesman like Dwight or Jim from 'The Office'. Managed territories, and made cold starts/ calls with new clients."
     }
+
 ]

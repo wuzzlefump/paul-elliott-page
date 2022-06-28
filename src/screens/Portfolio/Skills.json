@@ -10,6 +10,11 @@
         "description":"Understands the fundamentals of using HTML"
     },
     {
+        "skill":"Relational and Non Relational Databases",
+        "type":"developing",
+        "description":"Understands the fundamentals relational and non-relational databases like mongo and mysql "
+    },
+    {
         "skill":"CSS",
         "type":"developing",
         "description":"Understands The fundamentals of using CSS"
@@ -38,5 +43,161 @@
         "skill":"Gitlab CI",
         "type":"developing",
         "description":"Has some experience using pipelines on gitlab"
+    },
+    {
+        "skill":"Waltz",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Waltz"
+    },
+    {
+        "skill":"Foxtrot",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Foxtrot"
+    },
+    {
+        "skill":"Tango",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Tango"
+    },
+    {
+        "skill":"Viennese Waltz",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Viennese Waltz"
+    },
+    {
+        "skill":"Rumba",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Rumba"
+    },
+    {
+        "skill":"Cha Cha",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Cha Cha"
+    },
+    {
+        "skill":"East Coast Swing",
+        "type":"dance",
+        "description":"Has experience teaching and dancing East Coast Swing"
+    },
+    {
+        "skill":"Mambo",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Mambo"
+    },
+    {
+        "skill":"Bolero",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Bolero"
+    },
+    {
+        "skill":"Merengue",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Merengue"
+    },
+    {
+        "skill":"Salsa",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Salsa"
+    },
+    {
+        "skill":"West Coast Swing",
+        "type":"dance",
+        "description":"Has experience teaching and dancing West Coast Swing"
+    },
+    {
+        "skill":"Bachata",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Bachata"
+    },
+    {
+        "skill":"Zouk",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Zouk"
+    },
+    {
+        "skill":"Samba",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Samba"
+    },
+    {
+        "skill":"Paso Doble",
+        "type":"dance",
+        "description":"Has experience teaching and dancing Paso Doble"
+    },
+    {
+        "skill":"Music Identification",
+        "type":"dance",
+        "description":"Great at finding songs for specific dances at reasonable tempos"
+    },
+    {
+        "skill":"Running",
+        "type":"fitness",
+        "description":"Paul has been running consistently since highschool. He's been on track, cross country and triathlon teams"
+    },
+    {
+        "skill":"Swimming",
+        "type":"fitness",
+        "description":"Paul has been swimming consistently since he was 8. He's been on swim teams,and a triathlon team"
+    },
+    {
+        "skill":"Biking",
+        "type":"fitness",
+        "description":"Paul has been biking since college. He's been on a triathlon team"
+    },
+    {
+        "skill":"Weight Training",
+        "type":"fitness",
+        "description":"When Paul was a personal/ group fitness trainer he had to learn proper lifting techniques "
+    },
+    {
+        "skill":"Calisthenics",
+        "type":"fitness",
+        "description":"When Paul was a personal/ group fitness trainer he had to learn Body weight exercises "
+    },
+    {
+        "skill":"Dance",
+        "type":"fitness",
+        "description":"Paul has been dancing for over a decade and teaching dance for about 5 years"
+    },
+    {
+        "skill":"Teacher/Coach",
+        "type":"fitness",
+        "description":"Paul has been teaching and coaching since he entered the workforce"
+    },
+    {
+        "skill":"Teacher/Coach",
+        "type":"dance",
+        "description":"Paul has been teaching and coaching since he entered the workforce"
+    },
+    {
+        "skill":"Country Two Step",
+        "type":"dance",
+        "description":"Has experience dancing Country Two Step"
+    },
+    {
+        "skill":"Night Club Two Step",
+        "type":"dance",
+        "description":"Has experience dancing Night Club Two Step"
+    },
+    {
+        "skill":"Argentine Tango",
+        "type":"dance",
+        "description":"Has experience dancing Argentine Tango"
+    },
+    {
+        "skill":"Hustle",
+        "type":"dance",
+        "description":"Has experience dancing Hustle"
+    },
+    {
+        "skill":"Blues",
+        "type":"dance",
+        "description":"Has experience dancing Blues"
+    },
+    {
+        "skill":"Lead / Follow",
+        "type":"dance",
+        "description":"Paul can both lead and follow when he dances"
     }
+
 ]
