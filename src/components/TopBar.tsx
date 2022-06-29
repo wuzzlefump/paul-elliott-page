@@ -30,6 +30,13 @@ export default function TopBar() {
         >
           Portfolio
         </Nav.Item>
+        <Nav.Item
+          onClick={() => {
+            navigate("/portfolio");
+          }}
+        >
+          Website Gallery
+        </Nav.Item>
         {/* <Nav.Item> Blog </Nav.Item> */}
       </Nav>
     </Navbar>
