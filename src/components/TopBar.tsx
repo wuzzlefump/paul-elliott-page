@@ -32,7 +32,7 @@ export default function TopBar() {
         </Nav.Item>
         <Nav.Item
           onClick={() => {
-            navigate("/portfolio");
+            navigate("/websites");
           }}
         >
           Website Gallery

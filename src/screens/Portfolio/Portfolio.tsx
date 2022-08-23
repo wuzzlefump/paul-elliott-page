@@ -51,8 +51,7 @@ export default function Portfolio() {
           <div className={styles.contactInfo}>
             <h1 className={styles.Name}>Paul R. Elliott</h1>
             <h3>Based out of Arvada Co</h3>
-            <a href={"www.linkedin.com/in/paulelliottwork"}><h6 className={styles.linkedIn}>Contact me on my Linked In here!</h6></a>
-
+            <a href={"https://www.linkedin.com/in/paulelliottwork"}><h6 className={styles.linkedIn}>Contact me on my Linked In here!</h6></a>
           </div>
           <div className={styles.jobsSection}>
             {
