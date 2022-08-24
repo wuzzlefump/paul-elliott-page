@@ -22,7 +22,6 @@ export default function TopBar() {
         >
           Home
         </Nav.Item>
-        <Nav.Item>Memes</Nav.Item>
         <Nav.Item
           onClick={() => {
             navigate("/portfolio");
