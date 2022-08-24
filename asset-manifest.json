@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/paul-elliott-page/static/css/main.55b19047.css",
+    "main.js": "/paul-elliott-page/static/js/main.db8eba51.js",
+    "static/js/787.0b2db26f.chunk.js": "/paul-elliott-page/static/js/787.0b2db26f.chunk.js",
+    "static/media/Paul.jpg": "/paul-elliott-page/static/media/Paul.b5e02dcf5b381bd1afb4.jpg",
+    "static/media/Simon.jpg": "/paul-elliott-page/static/media/Simon.7bf49b98630e9b0520a7.jpg",
+    "static/media/Amanda.jpg": "/paul-elliott-page/static/media/Amanda.6f487ff7e9b8b339e557.jpg",
+    "static/media/Keeley.jpg": "/paul-elliott-page/static/media/Keeley.67d9941d919d930b187c.jpg",
+    "static/media/Inca.jpg": "/paul-elliott-page/static/media/Inca.16581978f0ceddd85232.jpg",
+    "index.html": "/paul-elliott-page/index.html",
+    "main.55b19047.css.map": "/paul-elliott-page/static/css/main.55b19047.css.map",
+    "main.db8eba51.js.map": "/paul-elliott-page/static/js/main.db8eba51.js.map",
+    "787.0b2db26f.chunk.js.map": "/paul-elliott-page/static/js/787.0b2db26f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b19047.css",
+    "static/js/main.db8eba51.js"
+  ]
+}
