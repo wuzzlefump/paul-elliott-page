@@ -1,5 +1,6 @@
 .app {
   height: 100vh;
+  padding-bottom: 20px;
   background-color: rgb(60, 165, 214);
 }
 .folder {
@@ -19,7 +20,7 @@
   background-color: rgb(231, 203, 149);
   height: 100%;
   padding-block-start: 20px;
-  padding-block-end: 5px;
+  padding-block-end: 35px;
 }
 
 .content {
