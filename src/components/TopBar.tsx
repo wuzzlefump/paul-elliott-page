@@ -1,6 +1,7 @@
 import { Navbar, Nav, Dropdown } from "rsuite";
 import styles from "./style.module.css";
 import { useNavigate } from "react-router-dom";
+import {IoIosMan} from "react-icons/io"
 
 export default function TopBar() {
   const navigate = useNavigate();
@@ -12,7 +13,7 @@ export default function TopBar() {
         }}
         style={{ fontFamily: "impact" }}
       >
-        Paul Elliott
+        <IoIosMan style={{fontSize:"25px"}}/>
       </Navbar.Brand>
       <Nav pullRight>
         <Nav.Item
