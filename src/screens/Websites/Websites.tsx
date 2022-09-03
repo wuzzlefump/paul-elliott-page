@@ -1,6 +1,6 @@
 import TopBar from "../../components/TopBar"
 import styles from "./Websites.module.css"
-import {FaHandsHelping, FaHandLizard} from "react-icons/fa"
+import {FaHandsHelping, FaHandLizard, FaCode, FaPen} from "react-icons/fa"
 import {GiWeightScale} from "react-icons/gi"
 export default function Websites(){
 
@@ -28,7 +28,19 @@ let list :webItem[] =[
         description:"Keep track of your weight and health using the browser's local storage",
         link:"https://wuzzlefump.github.io/workout-local/",
         icon:<GiWeightScale/>,
-    }
+    },
+    {
+        title:"Quick Code Pro",
+        description:"A site made on heroku to keep track of code snippets (will be migrated when heroku is no longer free)",
+        link:"https://qcpro.herokuapp.com/",
+        icon:<FaCode/>
+    },
+    {
+        title:"The Bulletin",
+        description:"A simple blog app made to help family keep up to date. Made with Sanity.io and next.js ",
+        link:"https://the-bulletin.vercel.app/",
+        icon:<FaPen/>
+    },
 ]
     return(
         <div className={styles.app}>
