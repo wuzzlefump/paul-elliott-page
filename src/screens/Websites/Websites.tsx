@@ -1,6 +1,7 @@
 import TopBar from "../../components/TopBar"
 import styles from "./Websites.module.css"
 import {FaHandsHelping, FaHandLizard, FaCode, FaPen} from "react-icons/fa"
+import {GiCrownedHeart} from "react-icons/gi"
 import {GiWeightScale} from "react-icons/gi"
 export default function Websites(){
 
@@ -40,6 +41,12 @@ let list :webItem[] =[
         description:"A simple blog app made to help family keep up to date. Made with Sanity.io and next.js ",
         link:"https://the-bulletin.vercel.app/",
         icon:<FaPen/>
+    },
+    {
+        title:"Web Tattoo",
+        description:"A simple app made for me to post, and for people to download pngs that look like tattoos ",
+        link:"https://web-tattoo.vercel.app/",
+        icon:<GiCrownedHeart/>
     },
 ]
     return(
