@@ -1,7 +1,7 @@
 import TopBar from "../../components/TopBar"
 import styles from "./Websites.module.css"
 import {FaHandsHelping, FaHandLizard, FaCode, FaPen} from "react-icons/fa"
-import {GiCrownedHeart} from "react-icons/gi"
+import {GiCrownedHeart, GiWeightLiftingDown} from "react-icons/gi"
 import {GiWeightScale} from "react-icons/gi"
 export default function Websites(){
 
@@ -31,9 +31,9 @@ let list :webItem[] =[
         icon:<GiWeightScale/>,
     },
     {
-        title:"Quick Code Pro",
-        description:"A site made on heroku to keep track of code snippets (will be migrated when heroku is no longer free)",
-        link:"https://qcpro.herokuapp.com/",
+        title:"Quick Code Connect",
+        description:"Based off of a group Project made by my group in a bootcamp. A Social media site to store and share code snippets",
+        link:"https://qc-connect.vercel.app",
         icon:<FaCode/>
     },
     {
@@ -48,6 +48,13 @@ let list :webItem[] =[
         link:"https://web-tattoo.vercel.app/",
         icon:<GiCrownedHeart/>
     },
+        {
+        title:"Workout Vizualizer",
+        description:"A simple app made to help guide me through home workouts ",
+        link:"https://workout-visualizer.vercel.app/",
+        icon:<GiWeightLiftingDown/>
+    },
+
 ]
     return(
         <div className={styles.app}>

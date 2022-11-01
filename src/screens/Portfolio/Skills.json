@@ -198,6 +198,26 @@
         "skill":"Lead / Follow",
         "type":"dance",
         "description":"Paul can both lead and follow when he dances"
+    },
+    {
+        "skill":"Communication",
+        "type":"sales",
+        "description":"Paul has had many jobs that emphasize communication (eg: Teaching, Food Service, Paper Sales, etc...  "
+    },
+    {
+        "skill":"Listening",
+        "type":"sales",
+        "description":"Over the years paul has found that if you listen to the client, they'll tell you what it is they want."
+    },
+    {
+        "skill":"Enthusiasm",
+        "type":"sales",
+        "description":"If Paul is enthusiastic about what he is selling he is great at getting others enthusiastic about it as well."
+    },
+    {
+        "skill":"Public Speaking",
+        "type":"sales",
+        "description":"As a teacher, and coach, Paul had to speak for hours on end to individuals and groups."
     }
 
 ]
