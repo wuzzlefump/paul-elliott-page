@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paul-elliott-page/static/css/main.c82af327.css",
-    "main.js": "/paul-elliott-page/static/js/main.24ddd1e9.js",
+    "main.js": "/paul-elliott-page/static/js/main.f06e4fec.js",
     "static/js/787.0b2db26f.chunk.js": "/paul-elliott-page/static/js/787.0b2db26f.chunk.js",
     "static/media/Paul.jpg": "/paul-elliott-page/static/media/Paul.b5e02dcf5b381bd1afb4.jpg",
     "static/media/Simon.jpg": "/paul-elliott-page/static/media/Simon.7bf49b98630e9b0520a7.jpg",
@@ -10,11 +10,11 @@
     "static/media/Inca.jpg": "/paul-elliott-page/static/media/Inca.16581978f0ceddd85232.jpg",
     "index.html": "/paul-elliott-page/index.html",
     "main.c82af327.css.map": "/paul-elliott-page/static/css/main.c82af327.css.map",
-    "main.24ddd1e9.js.map": "/paul-elliott-page/static/js/main.24ddd1e9.js.map",
+    "main.f06e4fec.js.map": "/paul-elliott-page/static/js/main.f06e4fec.js.map",
     "787.0b2db26f.chunk.js.map": "/paul-elliott-page/static/js/787.0b2db26f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c82af327.css",
-    "static/js/main.24ddd1e9.js"
+    "static/js/main.f06e4fec.js"
   ]
 }
